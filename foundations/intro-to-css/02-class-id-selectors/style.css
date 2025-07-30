@@ -1,0 +1,19 @@
+#first {
+    color: #99CCFF;
+    font-size: 36px;
+}
+
+#second {
+    background-color: #88E788;
+    font: bold;
+    font-size: 24px;
+}
+
+.paragraph {
+    background-color: #FFA6C9;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph.special {
+    font-size: 24px;
+}
